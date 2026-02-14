@@ -49,3 +49,20 @@ All exercises are contained in **one notebook**: `p253572_lab5.ipynb`.
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+## Run the notebook:
+```bash
+jupyter notebook p253572_lab5.ipynb
+```
+
+## 📚 Course Context
+Completed as part of COM6104 – Topics in Data Science and Artificial Intelligence at The Hang Seng University of Hong Kong.
+
+## 💡 Reflection
+This lab helped me compare TensorFlow and PyTorch implementations side by side.
+I learned how to calculate parameter counts, understand the trade-off between model size and generalization, and apply techniques like BatchNorm and Dropout to improve accuracy.
+It reinforced the importance of balancing complexity with regularization to avoid overfitting.
+
+## 📚 Acknowledgements
+Parts of this code were adapted from COM6104 lab materials provided by the instructor.
+This repository is licensed under the MIT License, which permits reuse and modification with proper attribution.
