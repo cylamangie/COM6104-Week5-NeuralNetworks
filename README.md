@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 ## Run the notebook:
 ```bash
-jupyter notebook p253572_lab5.ipynb
+jupyter notebook mushroom_classification_neural_networks.ipynb
 ```
 
 ## 📚 Course Context
