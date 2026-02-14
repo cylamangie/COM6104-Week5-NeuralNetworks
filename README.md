@@ -1,6 +1,5 @@
 # COM6104-Week5-NeuralNetworks
 COM6104 Week 5 lab — Neural networks with TensorFlow and PyTorch on the mushroom dataset, including preprocessing, parameter analysis, and accuracy improvements
-# Neural Networks Lab – Week 5
 
 ## 📌 Overview
 This project explores the use of **TensorFlow** and **PyTorch** to build and compare neural networks for binary classification on the mushroom dataset.  
